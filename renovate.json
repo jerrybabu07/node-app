@@ -3,7 +3,9 @@
     "baseBranches": [
         "main"
     ],
-    "schedule": ["*/10 * * * *"],
+    "schedule": [
+        "after 1pm every weekday"
+    ],
     "packageRules": [
         {
             "updateTypes": [
