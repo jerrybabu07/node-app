@@ -3,6 +3,7 @@
     "baseBranches": [
         "main"
     ],
+    "schedule": ["every 10 minutes"],
     "packageRules": [
         {
             "updateTypes": [
