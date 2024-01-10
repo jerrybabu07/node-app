@@ -4,7 +4,7 @@
         "main"
     ],
     "schedule": [
-        "after 1pm every weekday"
+        "after 8am every weekday"
     ],
     "packageRules": [
         {
